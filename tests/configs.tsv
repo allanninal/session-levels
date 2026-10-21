@@ -1,0 +1,2 @@
+sl_default	InpAlertPopup=false,InpClock=1
+sl_killzones	InpAlertPopup=false,InpClock=1,InpLondonStart=02:00,InpLondonEnd=05:00,InpNYStart=07:00,InpNYEnd=10:00

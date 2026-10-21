@@ -1,0 +1,27 @@
+PASS sl_default_BTCUSD_H1                     bars  15527  signals 1036  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_BTCUSD_H4                     bars   3882  signals  824  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_BTCUSD_M15                    bars  62085  signals 1176  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_EURUSD_H1                     bars  10998  signals  770  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_EURUSD_H4                     bars   2754  signals  617  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_EURUSD_M15                    bars  43980  signals  864  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_GBPJPY_H1                     bars  10997  signals  717  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_GBPJPY_H4                     bars   2754  signals  560  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_GBPJPY_M15                    bars  43978  signals  814  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_XAUUSD_H1                     bars  10444  signals  706  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_XAUUSD_H4                     bars   2730  signals  579  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_XAUUSD_M15                    bars  41751  signals  794  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_default_ticks_EURUSD_H1               bars   5813  signals  428  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_BTCUSD_H1                   bars  15527  signals 1036  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_BTCUSD_H4                   bars   3882  signals  824  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_BTCUSD_M15                  bars  62085  signals 1176  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_EURUSD_H1                   bars  10998  signals  770  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_EURUSD_H4                   bars   2754  signals  617  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_EURUSD_M15                  bars  43980  signals  864  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_GBPJPY_H1                   bars  10997  signals  717  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_GBPJPY_H4                   bars   2754  signals  560  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_GBPJPY_M15                  bars  43978  signals  814  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_XAUUSD_H1                   bars  10444  signals  706  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_XAUUSD_H4                   bars   2730  signals  579  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+PASS sl_killzones_XAUUSD_M15                  bars  41751  signals  794  b0 OK  b1 OK  b2 OK  b3 OK  b4 OK  b5 OK  b6 OK
+
+ALL PASS (25 files)

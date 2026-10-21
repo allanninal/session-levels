@@ -1,0 +1,2 @@
+sl_default	InpLondonStart=03:00,InpLondonEnd=12:00,InpNYStart=08:00,InpNYEnd=17:00
+sl_killzones	InpLondonStart=02:00,InpLondonEnd=05:00,InpNYStart=07:00,InpNYEnd=10:00
